@@ -3,8 +3,8 @@
 <img align='right' src="./images/programmer.gif" width="230">
 **About me**
 
-- my career shifted into programming years ago and it was one of the best decisions I've ever made.
--💬 Ask me about **HTML, CSS, JavaScript**
+- I am currently studying in Microverse.
+- 💬 Ask me about **HTML, CSS, JavaScript**
 - 📫 How to reach me **anshumannegi777@gmail.com**
 - ⚡ Fun fact **I am a gamer.**
 <br/><br/>
@@ -26,7 +26,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/anshumannegi108" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anshumannegi108" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/anshuman singh negi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anshuman singh negi" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/anshuman-singh-negi-33779a224/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anshuman singh negi" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@Anshuman_Negi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@anshuman_negi" height="30" width="40" /></a>
 
   ## &#x1f4c8; GitHub Stats
