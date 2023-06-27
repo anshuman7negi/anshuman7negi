@@ -41,7 +41,7 @@
 
 
   <div align="center">
-    <a href="https://github.com/anshuman7negit">
+    <a href="https://github.com/anshuman7negi">
       <img height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=anshuman7negi&theme=midnight-purple" />
     </a>
   </div>   
