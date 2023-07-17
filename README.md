@@ -1,7 +1,6 @@
 <h1 align="center">Hi, I'm Anshuman! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="40px"></h1>
 <h3 align="center"> Student at Microverse.org 🌟</h3>
 <h3 align="center"> "I'm a passionate developer specializing in HTML, CSS, and JavaScript, dedicated to creating user-friendly web applications. Seeking impactful opportunities to contribute my skills and build remarkable projects."</h3> <br>
-<img align='right' src="./images/programmer.gif" width="230">
 
 
 
