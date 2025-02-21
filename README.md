@@ -1,13 +1,13 @@
 <h1 align="center">Hi, I'm Anshuman! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="40px"></h1>
-<h3 align="center"> Student at Microverse.org 🌟</h3>
-<h3 align="center"> "I'm a passionate developer specializing in HTML, CSS, and JavaScript, dedicated to creating user-friendly web applications. Seeking impactful opportunities to contribute my skills and build remarkable projects."</h3> <br>
+<h3 align="center"> Software Engineer 🌟</h3>
+<h3 align="center"> "I'm a passionate Software Engineer specializing in HTML, CSS, and JavaScript, Java, SpringBoot, Oracle and Ruby dedicated to creating user-friendly web applications. Seeking impactful opportunities to contribute my skills and build remarkable projects."</h3> <br>
 
 
-- 🔭 I’m currently working on Ruby on Rails projects.
+- 🔭 I’m currently working on SpringBoot projects.
   
 - 👨‍💻 All my projects are available on the [Portfolio](https://anshumannegi.onrender.com/)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Android**
+- 💬 Ask me about **HTML, CSS, JavaScript, Java**
 
 - 📫 How to reach me **anshumannegi777@gmail.com**
 
